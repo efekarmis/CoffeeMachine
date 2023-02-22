@@ -1,2 +1,2 @@
 # CoffeeMachine
-HTML,CSS,JavaScript ve DOM kullanarak oluşturduğum Kahve Makinesi
+CoffeeMachine that created by using HTML,CSS,JavaScript.
